@@ -9,6 +9,6 @@ def line(array)
       line << " #{counter}. #{item}"
       counter += 1
     end 
-    puts "The line is currently: #{line.join}"
+    puts "The line is currently:#{line.join}"
   end 
 end 
